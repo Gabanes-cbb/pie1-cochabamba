@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Infraestructura municipal de Cochabamba</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css">
+  <style>
+    html,body,#map{width:100%;height:100%;margin:0}body{font-family:Arial,sans-serif;background:#dce4df}
+    .leaflet-container{font:14px/1.45 Arial,sans-serif;color:#173d48}
+    .territory-legend{padding:10px 12px;border-radius:12px;background:rgba(255,255,255,.96);box-shadow:0 8px 24px rgba(7,31,39,.16)}
+    .territory-legend strong{display:block;margin-bottom:7px;font-size:12px;text-transform:uppercase;letter-spacing:.06em}
+    .territory-legend span{display:flex;align-items:center;gap:7px;margin-top:5px;font-size:12px}.territory-legend i{width:10px;height:10px;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 1px rgba(16,45,56,.2)}
+    .place-popup strong,.place-popup span{display:block}.place-popup strong{font-size:15px;margin-bottom:4px}.place-popup .type{color:#60727a}.place-popup .wifi{margin-top:8px;font-weight:700}
+  </style>
+</head>
+<body>
+  <div id="map" aria-label="Mapa interactivo de infraestructura municipal"></div>
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+  <script>
+    const categoryStyles={
+      'Plazas y Plazuelas':{label:'Plazas',color:'#ed7b45'},
+      'Parques':{label:'Parques',color:'#4f8b6d'},
+      'Atractivos Turísticos':{label:'Atractivos turísticos',color:'#9b5b8f'},
+      'Espacios Culturales':{label:'Espacios culturales',color:'#2b6f91'},
+      'Area verde':{label:'Áreas verdes',color:'#96b94f'}
+    };
+    const map=L.map('map',{scrollWheelZoom:false,zoomControl:true});
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; OpenStreetMap'}).addTo(map);
+    function parseSemicolonCsv(text){
+      const rows=[];let row=[],value='',quoted=false;
+      for(let i=0;i<text.length;i++){const ch=text[i],next=text[i+1];if(ch==='"'&&quoted&&next==='"'){value+='"';i++;}else if(ch==='"'){quoted=!quoted;}else if(ch===';'&&!quoted){row.push(value);value='';}else if((ch==='\n'||ch==='\r')&&!quoted){if(ch==='\r'&&next==='\n')i++;row.push(value);if(row.some(cell=>cell!==''))rows.push(row);row=[];value='';}else{value+=ch;}}
+      if(value||row.length){row.push(value);rows.push(row);}const headers=rows.shift().map(h=>h.trim());return rows.map(values=>Object.fromEntries(headers.map((h,i)=>[h,(values[i]||'').trim()])));
+    }
+    function escapeHtml(value){return String(value).replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[ch]));}
+    fetch('../assets/territorio/Inventario%20Infraestructura.csv').then(response=>{if(!response.ok)throw new Error('No se pudo cargar el inventario');return response.text();}).then(text=>{
+      const bounds=[];parseSemicolonCsv(text).forEach(place=>{const lat=Number(place.LATITUD),lng=Number(place.LONGITUD);if(!Number.isFinite(lat)||!Number.isFinite(lng))return;const style=categoryStyles[place.TIPO]||{label:place.TIPO,color:'#60727a'};bounds.push([lat,lng]);L.circleMarker([lat,lng],{radius:8,weight:2,color:'#fff',fillColor:style.color,fillOpacity:.95}).addTo(map).bindPopup(`<div class="place-popup"><strong>${escapeHtml(place.NOMBRE)}</strong><span class="type">${escapeHtml(style.label)}</span><span class="wifi">Wi‑Fi: ${escapeHtml(place.WIFI)}</span></div>`);});
+      if(bounds.length)map.fitBounds(bounds,{padding:[32,32],maxZoom:15});
+      const legend=L.control({position:'bottomright'});legend.onAdd=()=>{const div=L.DomUtil.create('div','territory-legend');div.innerHTML='<strong>Infraestructura</strong>'+Object.values(categoryStyles).map(item=>`<span><i style="background:${item.color}"></i>${item.label}</span>`).join('');return div;};legend.addTo(map);
+    }).catch(()=>{map.setView([-17.38,-66.15],13);});
+  </script>
+</body>
+</html>

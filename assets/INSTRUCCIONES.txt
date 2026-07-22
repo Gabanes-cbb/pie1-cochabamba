@@ -1,0 +1,4 @@
+Coloca aquí el archivo: mapa_ine_pie1.pdf
+(Mapa oficial INE del Polígono PIE-1)
+
+Ver instrucciones completas en README.md
