@@ -1,0 +1,246 @@
+{
+  "type": "FeatureCollection",
+  "name": "Infraestructura PIE-1",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.141899035534,
+          -17.3747800534222
+        ]
+      },
+      "properties": {
+        "nombre": "El Pueblito",
+        "tipo": "Atractivos Turísticos",
+        "wifi": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.150407678886,
+          -17.3784957828421
+        ]
+      },
+      "properties": {
+        "nombre": "Pasaje Recoleta",
+        "tipo": "Plazas y Plazuelas",
+        "wifi": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1604597029751,
+          -17.3674500673389
+        ]
+      },
+      "properties": {
+        "nombre": "Plaza Hernando Siles",
+        "tipo": "Plazas y Plazuelas",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1568224107423,
+          -17.372818761171
+        ]
+      },
+      "properties": {
+        "nombre": "Plaza 4 de noviembre",
+        "tipo": "Plazas y Plazuelas",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1589953717927,
+          -17.370160943765
+        ]
+      },
+      "properties": {
+        "nombre": "Parque Marcelo Illanes Ledezma",
+        "tipo": "Parques",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1525051663516,
+          -17.3706217522155
+        ]
+      },
+      "properties": {
+        "nombre": "Parque Fidel Anze",
+        "tipo": "Parques",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1590071299638,
+          -17.3699571403266
+        ]
+      },
+      "properties": {
+        "nombre": "Av. Gualberto Villarroel",
+        "tipo": "Area verde",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1589722699153,
+          -17.3688369115188
+        ]
+      },
+      "properties": {
+        "nombre": "Pasarela Ciclovia",
+        "tipo": "Atractivos Turísticos",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1535887788119,
+          -17.3738113385915
+        ]
+      },
+      "properties": {
+        "nombre": "Museo de Historia Natural \"Alcide d'Arguedas\"",
+        "tipo": "Espacios Culturales",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1529986928246,
+          -17.3746816815581
+        ]
+      },
+      "properties": {
+        "nombre": "Centro Cultural \"Simón I. Patiño\"",
+        "tipo": "Espacios Culturales",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1513089011289,
+          -17.3753421155119
+        ]
+      },
+      "properties": {
+        "nombre": "Paseo Portales",
+        "tipo": "Atractivos Turísticos",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1595432828627,
+          -17.3747789549351
+        ]
+      },
+      "properties": {
+        "nombre": "Parque Queru Queru",
+        "tipo": "Parques",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1520760129269,
+          -17.3783114791126
+        ]
+      },
+      "properties": {
+        "nombre": "Plaza Ubaldo Anze (Recoleta)",
+        "tipo": "Plazas y Plazuelas",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1588620017446,
+          -17.3806510989092
+        ]
+      },
+      "properties": {
+        "nombre": "Parque Oblitas",
+        "tipo": "Parques",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.160246021593,
+          -17.3807842054862
+        ]
+      },
+      "properties": {
+        "nombre": "Plaza de las Banderas",
+        "tipo": "Plazas y Plazuelas",
+        "wifi": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1522632500607,
+          -17.3754258363576
+        ]
+      },
+      "properties": {
+        "nombre": "Plaza Portales",
+        "tipo": "Plazas y Plazuelas",
+        "wifi": false
+      }
+    }
+  ]
+}

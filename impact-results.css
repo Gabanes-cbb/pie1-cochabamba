@@ -1,0 +1,162 @@
+#impacto {
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 88% 18%, rgba(182, 206, 114, .17), transparent 25%),
+    linear-gradient(180deg, #f7f5ef 0%, #eef2e9 100%);
+}
+
+.impact-system { position: relative; }
+
+#impacto .impact-grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0;
+  overflow: hidden;
+  border: 1px solid rgba(16, 45, 56, .14);
+  border-radius: 26px;
+  background: rgba(255, 255, 255, .65);
+  box-shadow: 0 22px 60px rgba(16, 45, 56, .09);
+}
+
+#impacto .impact-dimension {
+  --impact-accent: #4f8b6d;
+  position: relative;
+  min-width: 0;
+  padding: 28px 24px 26px;
+  border: 0;
+  border-top: 5px solid var(--impact-accent);
+  border-right: 1px solid rgba(16, 45, 56, .12);
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+#impacto .impact-dimension:last-child { border-right: 0; }
+#impacto .impact-investment { --impact-accent: #4f8b6d; }
+#impacto .impact-employment { --impact-accent: #ed7b45; }
+#impacto .impact-innovation { --impact-accent: #2b6f91; }
+#impacto .impact-city { --impact-accent: #9bb84f; }
+
+.impact-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+#impacto .impact-heading strong {
+  color: var(--impact-accent);
+  font: 800 .78rem/1 Manrope, sans-serif;
+  letter-spacing: .14em;
+}
+
+.impact-icon {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  border: 1px solid color-mix(in srgb, var(--impact-accent) 65%, transparent);
+  border-radius: 50%;
+  color: var(--impact-accent);
+  background: color-mix(in srgb, var(--impact-accent) 10%, transparent);
+  font: 800 1rem/1 Manrope, sans-serif;
+}
+
+#impacto .impact-dimension h3 {
+  margin: 0 0 12px;
+  color: #102d38;
+  font-size: clamp(1.35rem, 2vw, 1.8rem);
+}
+
+#impacto .impact-idea {
+  min-height: 50px;
+  margin: 0 0 24px;
+  color: #60727a;
+  font-size: .9rem;
+  line-height: 1.5;
+}
+
+.impact-indicators {
+  display: grid;
+  gap: 9px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.impact-indicators li {
+  position: relative;
+  padding: 9px 11px 9px 28px;
+  border-radius: 10px;
+  color: #334f59;
+  background: color-mix(in srgb, var(--impact-accent) 8%, #fff);
+  font-size: .77rem;
+  line-height: 1.35;
+}
+
+.impact-indicators li::before {
+  content: "";
+  position: absolute;
+  left: 11px;
+  top: 15px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--impact-accent);
+}
+
+.impact-note {
+  display: flex;
+  width: fit-content;
+  max-width: 100%;
+  align-items: center;
+  gap: 10px;
+  margin: 24px auto 0;
+  padding: 10px 16px;
+  border: 1px solid rgba(16, 45, 56, .14);
+  border-radius: 99px;
+  background: rgba(255, 255, 255, .72);
+}
+
+.impact-note span {
+  flex: 0 0 24px;
+  display: grid;
+  width: 24px;
+  height: 24px;
+  place-items: center;
+  border-radius: 50%;
+  color: #fff;
+  background: #2b6f91;
+  font: 800 .75rem/1 Manrope, sans-serif;
+}
+
+.impact-note p { margin: 0; color: #60727a; font-size: .8rem; font-weight: 700; }
+
+.impact-closing {
+  max-width: 850px;
+  margin: 34px auto 0;
+  padding-top: 28px;
+  border-top: 1px solid rgba(16, 45, 56, .15);
+  color: #102d38;
+  text-align: center;
+  font: 750 clamp(1.05rem, 1.8vw, 1.4rem)/1.45 Manrope, sans-serif;
+}
+
+@media (max-width: 980px) {
+  #impacto .impact-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  #impacto .impact-dimension { border-bottom: 1px solid rgba(16, 45, 56, .12); }
+  #impacto .impact-dimension:nth-child(2) { border-right: 0; }
+  #impacto .impact-dimension:nth-child(3), #impacto .impact-dimension:nth-child(4) { border-bottom: 0; }
+}
+
+@media (max-width: 620px) {
+  #impacto .impact-grid { grid-template-columns: 1fr; border-radius: 20px; }
+  #impacto .impact-dimension { padding: 24px 20px; border-right: 0; border-bottom: 1px solid rgba(16, 45, 56, .12) !important; }
+  #impacto .impact-dimension:last-child { border-bottom: 0 !important; }
+  .impact-heading { margin-bottom: 18px; }
+  #impacto .impact-idea { min-height: 0; }
+  .impact-note { align-items: flex-start; border-radius: 16px; }
+  .impact-closing { text-align: left; }
+}

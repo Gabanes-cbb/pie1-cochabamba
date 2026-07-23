@@ -1,0 +1,30 @@
+PIE 1 COCHABAMBA — USO LOCAL
+
+Opcion recomendada (Windows)
+1. Descomprima completamente el archivo ZIP en una carpeta.
+2. Abra INICIAR_SITIO.bat.
+3. El sitio se abrira en http://127.0.0.1:8765/
+4. Mantenga abierta la ventana del servidor durante la presentacion.
+5. Para detenerlo, cierre esa ventana o presione Ctrl+C.
+
+Opcion manual
+1. Abra una terminal dentro de esta carpeta.
+2. Ejecute uno de estos comandos:
+   py -m http.server 8765
+   python -m http.server 8765
+3. Abra http://127.0.0.1:8765/ en el navegador.
+
+Contenido disponible sin internet
+- Paginas, navegacion, estilos y scripts del sitio.
+- Imagen del poligono PIE 1.
+- Las seis infografias.
+- Archivos CSV, GeoJSON, KML, PDF y mapas HTML guardados en el paquete.
+
+Limitaciones sin internet
+- Los dos visores incrustados de ArcGIS Online requieren conexion.
+- Los fondos cartograficos de OpenStreetMap y CARTO y algunas bibliotecas
+  cartograficas externas requieren conexion.
+- El contenido local, las imagenes y las infografias permanecen disponibles.
+
+No abra index.html directamente si necesita los mapas y datos locales: use el
+iniciador o el servidor indicado para evitar restricciones del navegador.

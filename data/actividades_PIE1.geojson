@@ -1,0 +1,2222 @@
+{
+  "type": "FeatureCollection",
+  "name": "POLÍGONO DE INNOVACIÓN ECONÓMICA 1",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1582113,
+          -17.3750725,
+          2616.800048828125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-06T12:04:58.134-04:00",
+        "end": "2026-04-06T12:10:40.916-04:00",
+        "Nombre del establecimiento": "Unifranz ",
+        "Tipo de actor": "Universidad",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT Cuenta con registro de SEPREC",
+        "Número de carreras ": "16",
+        "Cantidad de sedes": "2",
+        "_id": 717154420,
+        "_uuid": "66003cb2-c94b-4270-9fbe-91411a45f1be",
+        "_submission_time": "2026-04-06T16:10:44",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:66003cb2-c94b-4270-9fbe-91411a45f1be",
+        "_index": 1,
+        "estado_cruce": "POSIBLE",
+        "similitud": 66.7,
+        "nombre_naranja": "Franzua",
+        "actividad_naranja": "Moda (Industria Téxtil)",
+        "rubro_naranja": "Artes Visuales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1593683,
+          -17.3798461,
+          2612.300048828125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T10:37:44.457-04:00",
+        "end": "2026-04-07T10:56:57.736-04:00",
+        "Nombre del establecimiento": "Churrasqueria BAGU",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Otro",
+        "Capacidad del establecimiento (número de mesas)": "30 mesas",
+        "_id": 718271941,
+        "_uuid": "0d23b9f1-f5fd-4d45-b040-ad9f9c0f8543",
+        "_submission_time": "2026-04-07T14:56:59",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:0d23b9f1-f5fd-4d45-b040-ad9f9c0f8543",
+        "_index": 2,
+        "estado_cruce": "POSIBLE",
+        "similitud": 71.1,
+        "nombre_naranja": "Churrasqueria el buen gusto",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1592775,
+          -17.3787714,
+          2612.60009765625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T10:47:05.807-04:00",
+        "end": "2026-04-07T10:57:13.402-04:00",
+        "Nombre del establecimiento": "Chiken's kingdom",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT Cuenta con registro de SEPREC",
+        "Tipo de Cocina": "Otro",
+        "Capacidad del establecimiento (número de mesas)": "30 mesas",
+        "_id": 718272154,
+        "_uuid": "9568e6d0-2bce-4860-8f3d-08c5a68d4572",
+        "_submission_time": "2026-04-07T14:57:13",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:9568e6d0-2bce-4860-8f3d-08c5a68d4572",
+        "_index": 3,
+        "estado_cruce": "POSIBLE",
+        "similitud": 69.0,
+        "nombre_naranja": "Friend chiken",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1592019,
+          -17.3776144,
+          2613.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T10:54:04.508-04:00",
+        "end": "2026-04-07T11:28:42.538-04:00",
+        "Nombre del establecimiento": "Fit line",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "No",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "No",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Otro",
+        "Capacidad del establecimiento (número de mesas)": "8 mesas",
+        "_id": 718301922,
+        "_uuid": "6193f618-d354-47d9-9586-e7bf5fa3c1e3",
+        "_submission_time": "2026-04-07T15:28:44",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:6193f618-d354-47d9-9586-e7bf5fa3c1e3",
+        "_index": 4,
+        "estado_cruce": "POSIBLE",
+        "similitud": 63.6,
+        "nombre_naranja": "Rolling Fruits",
+        "actividad_naranja": "Industria de alimentos",
+        "rubro_naranja": "Industria creativa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1593522,
+          -17.3764155,
+          2614.7001953125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T11:00:37.003-04:00",
+        "end": "2026-04-07T11:28:53.337-04:00",
+        "Nombre del establecimiento": "Rustic grill",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "No",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Otro",
+        "Capacidad del establecimiento (número de mesas)": "10-15 mesas",
+        "_id": 718302102,
+        "_uuid": "802d0366-56f1-4c7c-a8ac-1b1a01c0e961",
+        "_submission_time": "2026-04-07T15:28:54",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:802d0366-56f1-4c7c-a8ac-1b1a01c0e961",
+        "_index": 5,
+        "estado_cruce": "POSIBLE",
+        "similitud": 64.0,
+        "nombre_naranja": "Tinkuna Grill",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1599285,
+          -17.3749401,
+          2615.400146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T11:07:18.053-04:00",
+        "end": "2026-04-07T11:29:36.476-04:00",
+        "Nombre del establecimiento": "Pachamamay",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Fusión",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe ",
+        "_id": 718302965,
+        "_uuid": "5abd1d96-ca4b-48f4-aa79-8f80e4817611",
+        "_submission_time": "2026-04-07T15:29:37",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:5abd1d96-ca4b-48f4-aa79-8f80e4817611",
+        "_index": 6,
+        "estado_cruce": "COINCIDE",
+        "similitud": 81.8,
+        "nombre_naranja": "La Pachamama ",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1599607,
+          -17.3746597,
+          2616.2001953125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T11:09:44.401-04:00",
+        "end": "2026-04-07T11:29:57.391-04:00",
+        "Nombre del establecimiento": "Churrasqueria El Novillero",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "No",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Boliviana",
+        "Capacidad del establecimiento (número de mesas)": "20 -25 mesas",
+        "_id": 718303293,
+        "_uuid": "513a1adf-f532-4d2e-9583-9f39e0a3f0f1",
+        "_submission_time": "2026-04-07T15:29:58",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:513a1adf-f532-4d2e-9583-9f39e0a3f0f1",
+        "_index": 7,
+        "estado_cruce": "POSIBLE",
+        "similitud": 77.6,
+        "nombre_naranja": "El Rebaño Churrasqueria",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1599772,
+          -17.3745878,
+          2615.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T11:12:12.810-04:00",
+        "end": "2026-04-07T11:30:21.081-04:00",
+        "Nombre del establecimiento": "Aromas del parque",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cafe de especialidad",
+        "Capacidad del establecimiento (número de mesas)": "8 mesas",
+        "_id": 718303730,
+        "_uuid": "c48fc6a5-02bf-4be9-adda-02e7a07f7e9b",
+        "_submission_time": "2026-04-07T15:30:22",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:c48fc6a5-02bf-4be9-adda-02e7a07f7e9b",
+        "_index": 8,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 58.1,
+        "nombre_naranja": "Comidas La paz ",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.159998,
+          -17.374538,
+          2615.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T11:15:49.565-04:00",
+        "end": "2026-04-07T11:30:45.869-04:00",
+        "Nombre del establecimiento": "Nigiri maki o maki maki ",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Internacional",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe ",
+        "_id": 718304158,
+        "_uuid": "0c0c60d9-dfdc-414f-9c40-4ca68f590426",
+        "_submission_time": "2026-04-07T15:30:46",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:0c0c60d9-dfdc-414f-9c40-4ca68f590426",
+        "_index": 9,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 51.1,
+        "nombre_naranja": "Ali &Adri Pretty Make up",
+        "actividad_naranja": "Diseño de imagen personal",
+        "rubro_naranja": "Diseño"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1599739,
+          -17.3744979,
+          2615.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T11:19:47.966-04:00",
+        "end": "2026-04-07T14:40:00.093-04:00",
+        "Nombre del establecimiento": "Upaya cowork",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "No",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cafe de especialidad",
+        "Capacidad del establecimiento (número de mesas)": "10 mesas",
+        "_id": 718457136,
+        "_uuid": "54051ed6-fa9f-4a1b-be7b-58b370313c77",
+        "_submission_time": "2026-04-07T18:40:01",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:54051ed6-fa9f-4a1b-be7b-58b370313c77",
+        "_index": 10,
+        "estado_cruce": "POSIBLE",
+        "similitud": 66.7,
+        "nombre_naranja": "Cowork",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1597127,
+          -17.3743713,
+          2616.300048828125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T11:23:50.303-04:00",
+        "end": "2026-04-07T14:40:35.212-04:00",
+        "Nombre del establecimiento": "Odontología Río",
+        "Tipo de actor": "Salud",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Especialidad principal (Salud)": "Odontología",
+        "Capacidad de establecimiento (número de camas)": "No se sabe",
+        "_id": 718457458,
+        "_uuid": "881cf79c-920b-4671-abc2-93b3269ddfeb",
+        "_submission_time": "2026-04-07T18:40:35",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:881cf79c-920b-4671-abc2-93b3269ddfeb",
+        "_index": 11,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 53.3,
+        "nombre_naranja": "MAFO Fotografía",
+        "actividad_naranja": "fotografia",
+        "rubro_naranja": "Artes Visuales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1590294,
+          -17.3743493,
+          2618.500244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T11:40:49.971-04:00",
+        "end": "2026-04-07T14:40:55.014-04:00",
+        "Nombre del establecimiento": "Ágora Coffee Store",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cafe de especialidad",
+        "Capacidad del establecimiento (número de mesas)": "9 mesas",
+        "_id": 718457680,
+        "_uuid": "2070e0c4-25c7-4fac-be97-c750e313a691",
+        "_submission_time": "2026-04-07T18:40:55",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:2070e0c4-25c7-4fac-be97-c750e313a691",
+        "_index": 12,
+        "estado_cruce": "POSIBLE",
+        "similitud": 69.0,
+        "nombre_naranja": "More coffee",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1590774,
+          -17.3741431,
+          2619.000244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T11:44:10.156-04:00",
+        "end": "2026-04-07T14:41:12.062-04:00",
+        "Nombre del establecimiento": "Kausa",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Internacional",
+        "Capacidad del establecimiento (número de mesas)": "4 mesas",
+        "_id": 718457860,
+        "_uuid": "a9a320e9-456f-4938-9f84-8938e1e9f8bb",
+        "_submission_time": "2026-04-07T18:41:12",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:a9a320e9-456f-4938-9f84-8938e1e9f8bb",
+        "_index": 13,
+        "estado_cruce": "POSIBLE",
+        "similitud": 60.0,
+        "nombre_naranja": "Praus",
+        "actividad_naranja": "Educación Creativa",
+        "rubro_naranja": "Educación Creativa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1591734,
+          -17.3739706,
+          2619.300048828125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T11:48:21.862-04:00",
+        "end": "2026-04-07T14:41:24.641-04:00",
+        "Nombre del establecimiento": "GOIANO RESTAURANTE FEIJOADA COMIDA BRASILEÑA",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Internacional",
+        "Capacidad del establecimiento (número de mesas)": "13 mesas",
+        "_id": 718457990,
+        "_uuid": "a125e56f-b288-4af9-9e28-0f02be404b66",
+        "_submission_time": "2026-04-07T18:41:25",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:a125e56f-b288-4af9-9e28-0f02be404b66",
+        "_index": 14,
+        "estado_cruce": "POSIBLE",
+        "similitud": 61.3,
+        "nombre_naranja": "Restaurante cabaña las gaviotas",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1589705,
+          -17.3735485,
+          2620.800048828125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T11:52:39.578-04:00",
+        "end": "2026-04-07T14:41:39.309-04:00",
+        "Nombre del establecimiento": "Cocolatte Av. Villarroel",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT Cuenta con registro de SEPREC",
+        "Tipo de Cocina": "Cafe de especialidad",
+        "Capacidad del establecimiento (número de mesas)": "13 - 15 mesas",
+        "_id": 718458174,
+        "_uuid": "1e5ed3d2-7eea-4105-9012-d56575d0d36e",
+        "_submission_time": "2026-04-07T18:41:39",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:1e5ed3d2-7eea-4105-9012-d56575d0d36e",
+        "_index": 15,
+        "estado_cruce": "POSIBLE",
+        "similitud": 65.0,
+        "nombre_naranja": "Elena Villarroel",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1591503,
+          -17.3733695,
+          2620.60009765625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T11:55:08.411-04:00",
+        "end": "2026-04-07T14:41:47.919-04:00",
+        "Nombre del establecimiento": "La quebrada",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "No",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Boliviana",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 718458294,
+        "_uuid": "d2bcd94e-b729-4d9b-9d63-6ef0f3ee074c",
+        "_submission_time": "2026-04-07T18:41:48",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:d2bcd94e-b729-4d9b-9d63-6ef0f3ee074c",
+        "_index": 16,
+        "estado_cruce": "POSIBLE",
+        "similitud": 70.0,
+        "nombre_naranja": "La Nevada ",
+        "actividad_naranja": "Industria de productos creativos",
+        "rubro_naranja": "Industria creativa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1573474,
+          -17.3738005,
+          2620.800048828125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T12:08:02.331-04:00",
+        "end": "2026-04-07T14:41:57.297-04:00",
+        "Nombre del establecimiento": "Viernes santo",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Boliviana",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 718458378,
+        "_uuid": "d6bd4732-7113-4821-8980-b171412fc214",
+        "_submission_time": "2026-04-07T18:41:58",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:d6bd4732-7113-4821-8980-b171412fc214",
+        "_index": 17,
+        "estado_cruce": "POSIBLE",
+        "similitud": 66.7,
+        "nombre_naranja": "No tiene",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1574521,
+          -17.3738414,
+          2620.800048828125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T12:10:43.255-04:00",
+        "end": "2026-04-07T14:42:06.111-04:00",
+        "Nombre del establecimiento": "Rincón queru queru",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Boliviana",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 718458441,
+        "_uuid": "7a9cf937-f7b8-4149-9e40-e5bf4730e917",
+        "_submission_time": "2026-04-07T18:42:06",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:7a9cf937-f7b8-4149-9e40-e5bf4730e917",
+        "_index": 18,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 58.8,
+        "nombre_naranja": "Rincón del libro ",
+        "actividad_naranja": "Editoriales - Escritores (Libros, periódicos y revistas)",
+        "rubro_naranja": "Editorial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1569845,
+          -17.3766652,
+          2615.800048828125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T12:35:04.363-04:00",
+        "end": "2026-04-07T14:42:13.997-04:00",
+        "Nombre del establecimiento": "Happy Fry",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Otro",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 718458496,
+        "_uuid": "5a0ccda7-529d-414e-8c23-bc7b56b43915",
+        "_submission_time": "2026-04-07T18:42:14",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:5a0ccda7-529d-414e-8c23-bc7b56b43915",
+        "_index": 19,
+        "estado_cruce": "POSIBLE",
+        "similitud": 73.7,
+        "nombre_naranja": "Happy Fish ",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1569703,
+          -17.3767125,
+          2615.500244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T12:37:30.128-04:00",
+        "end": "2026-04-07T14:42:25.260-04:00",
+        "Nombre del establecimiento": "Los globos",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT Cuenta con registro de SEPREC",
+        "Tipo de Cocina": "Cocina Boliviana",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 718458568,
+        "_uuid": "bf40afca-8250-48f9-afa8-ca85a514c884",
+        "_submission_time": "2026-04-07T18:42:25",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:bf40afca-8250-48f9-afa8-ca85a514c884",
+        "_index": 20,
+        "estado_cruce": "POSIBLE",
+        "similitud": 73.7,
+        "nombre_naranja": "Los leños",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1575402,
+          -17.377021,
+          2615.500244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T12:44:25.564-04:00",
+        "end": "2026-04-07T14:42:36.876-04:00",
+        "Nombre del establecimiento": "Estudio elegante y calido o EURIGA",
+        "Tipo de actor": "Hospedaje",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de establecimiento (Alojamiento)": "Apart-Hotel",
+        "Categoría del establecimiento": "4 estrellas",
+        "¿Ofrece WiFi a los huéspedes?": "Si",
+        "Capacidad del establecimiento (Alojamiento)": "No se sabe",
+        "_id": 718458637,
+        "_uuid": "eaafce80-174b-46e3-854d-218cddc96df4",
+        "_submission_time": "2026-04-07T18:42:37",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:eaafce80-174b-46e3-854d-218cddc96df4",
+        "_index": 21,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 58.6,
+        "nombre_naranja": "Peluquero estilo calidad",
+        "actividad_naranja": "Diseño de imagen personal",
+        "rubro_naranja": "Diseño"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1570037,
+          -17.3775386,
+          2615.000244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T12:51:26.261-04:00",
+        "end": "2026-04-07T14:42:43.718-04:00",
+        "Nombre del establecimiento": "MOTACÚ",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Boliviana",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 718458704,
+        "_uuid": "56670a8e-a96f-4560-8b7f-0b290b78a4f9",
+        "_submission_time": "2026-04-07T18:42:44",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:56670a8e-a96f-4560-8b7f-0b290b78a4f9",
+        "_index": 22,
+        "estado_cruce": "POSIBLE",
+        "similitud": 61.5,
+        "nombre_naranja": "Moritas ",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1570142,
+          -17.3775378,
+          2615.000244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T12:53:33.312-04:00",
+        "end": "2026-04-07T14:43:01.677-04:00",
+        "Nombre del establecimiento": "Pensión maya",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "No",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Boliviana",
+        "Capacidad del establecimiento (número de mesas)": "6 mesas",
+        "_id": 718458860,
+        "_uuid": "65afb1e2-cc32-43d8-b306-d41688d8f04e",
+        "_submission_time": "2026-04-07T18:43:02",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:65afb1e2-cc32-43d8-b306-d41688d8f04e",
+        "_index": 23,
+        "estado_cruce": "COINCIDE",
+        "similitud": 84.6,
+        "nombre_naranja": "Pensión Malena",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1570859,
+          -17.3784922,
+          2615.2001953125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T12:58:24.229-04:00",
+        "end": "2026-04-07T14:43:20.170-04:00",
+        "Nombre del establecimiento": "K-Donuts Suc. Av. Santa Cruz",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cafe de especialidad",
+        "Capacidad del establecimiento (número de mesas)": "9 mesas",
+        "_id": 718459054,
+        "_uuid": "b0fae79c-123e-4e69-a4d5-fe754587c056",
+        "_submission_time": "2026-04-07T18:43:21",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:b0fae79c-123e-4e69-a4d5-fe754587c056",
+        "_index": 24,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 52.4,
+        "nombre_naranja": "Hands & Donuts ",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1571177,
+          -17.3792637,
+          2615.000244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T13:02:43.147-04:00",
+        "end": "2026-04-07T14:43:31.739-04:00",
+        "Nombre del establecimiento": "BROS",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Fusión",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 718459147,
+        "_uuid": "fa09c542-1989-4b66-8998-3503d51cf00c",
+        "_submission_time": "2026-04-07T18:43:32",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:fa09c542-1989-4b66-8998-3503d51cf00c",
+        "_index": 25,
+        "estado_cruce": "POSIBLE",
+        "similitud": 66.7,
+        "nombre_naranja": "BROOKIES",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1572162,
+          -17.3797545,
+          2613.800048828125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T13:05:33.230-04:00",
+        "end": "2026-04-07T14:43:40.250-04:00",
+        "Nombre del establecimiento": "Billar Royal VIP",
+        "Tipo de actor": "Ocio",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Establecimiento (Ocio)": "Otro",
+        "Horario predominante de atención": "Todo el día",
+        "Capacidad del establecimiento ": "No se sabe",
+        "_id": 718459220,
+        "_uuid": "bc5dc2e4-99c8-4886-a0bb-9937d73b2433",
+        "_submission_time": "2026-04-07T18:43:40",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:bc5dc2e4-99c8-4886-a0bb-9937d73b2433",
+        "_index": 26,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 53.8,
+        "nombre_naranja": "Vida Bella",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1573436,
+          -17.3781479,
+          2614.400146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T13:13:26.249-04:00",
+        "end": "2026-04-07T14:43:49.676-04:00",
+        "Nombre del establecimiento": "El nelo",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "No",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Fusión",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 718459322,
+        "_uuid": "115506e6-0f22-4da1-9284-17c94971d4b7",
+        "_submission_time": "2026-04-07T18:43:50",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:115506e6-0f22-4da1-9284-17c94971d4b7",
+        "_index": 27,
+        "estado_cruce": "POSIBLE",
+        "similitud": 62.5,
+        "nombre_naranja": "El gusteo",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1574712,
+          -17.378012,
+          2614.500244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T13:16:03.239-04:00",
+        "end": "2026-04-07T14:43:57.022-04:00",
+        "Nombre del establecimiento": "La Carreta Del Toro",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Boliviana",
+        "Capacidad del establecimiento (número de mesas)": "19 mesas",
+        "_id": 718459418,
+        "_uuid": "195475f0-b922-4d38-9014-0793571f68ff",
+        "_submission_time": "2026-04-07T18:43:57",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:195475f0-b922-4d38-9014-0793571f68ff",
+        "_index": 28,
+        "estado_cruce": "POSIBLE",
+        "similitud": 68.4,
+        "nombre_naranja": "La casita del saber",
+        "actividad_naranja": "Educación creativa",
+        "rubro_naranja": "Educación Creativa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1581489,
+          -17.3779449,
+          2613.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-07T13:19:17.064-04:00",
+        "end": "2026-04-07T14:44:17.000-04:00",
+        "Nombre del establecimiento": "Montenegro restaurante",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "No",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Otro",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 718459636,
+        "_uuid": "8fe3ff97-4a3e-4fe0-9987-b4ba16a02adc",
+        "_submission_time": "2026-04-07T18:44:17",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:8fe3ff97-4a3e-4fe0-9987-b4ba16a02adc",
+        "_index": 29,
+        "estado_cruce": "POSIBLE",
+        "similitud": 75.0,
+        "nombre_naranja": "Restaurante Fronty",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1590239,
+          -17.376857,
+          2614.400146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T12:39:30.347-04:00",
+        "end": "2026-04-13T16:17:11.949-04:00",
+        "Nombre del establecimiento": "María Bonita",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Internacional",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 723882905,
+        "_uuid": "8c765f04-f31b-4fdb-bd72-4e2a73ce20e2",
+        "_submission_time": "2026-04-13T20:17:13",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:8c765f04-f31b-4fdb-bd72-4e2a73ce20e2",
+        "_index": 30,
+        "estado_cruce": "POSIBLE",
+        "similitud": 66.7,
+        "nombre_naranja": "Villa bonita",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1588568,
+          -17.3768412,
+          2614.10009765625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T12:41:43.391-04:00",
+        "end": "2026-04-13T16:17:57.755-04:00",
+        "Nombre del establecimiento": "Mamma Mía Cochabamba",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Otro",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 723883198,
+        "_uuid": "94c1d1e1-8f65-4e02-b058-37c9f2e391f9",
+        "_submission_time": "2026-04-13T20:17:58",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:94c1d1e1-8f65-4e02-b058-37c9f2e391f9",
+        "_index": 31,
+        "estado_cruce": "POSIBLE",
+        "similitud": 72.2,
+        "nombre_naranja": "Munay Cochabamba ",
+        "actividad_naranja": "Moda (Industria Téxtil)",
+        "rubro_naranja": "Artes Visuales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1586902,
+          -17.376828,
+          2614.400146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T12:43:52.847-04:00",
+        "end": "2026-04-13T16:18:41.161-04:00",
+        "Nombre del establecimiento": "Los Leños Sabor Chapaco",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Boliviana",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 723883519,
+        "_uuid": "dc8a79f1-d0cf-478c-9de9-87684da1aaf0",
+        "_submission_time": "2026-04-13T20:18:42",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:dc8a79f1-d0cf-478c-9de9-87684da1aaf0",
+        "_index": 32,
+        "estado_cruce": "POSIBLE",
+        "similitud": 61.1,
+        "nombre_naranja": "Sabor criollo",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1583635,
+          -17.3768384,
+          2614.7001953125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T12:51:15.834-04:00",
+        "end": "2026-04-13T16:19:24.061-04:00",
+        "Nombre del establecimiento": "Zen Nikkei Sushi",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Internacional",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 723883869,
+        "_uuid": "2fa246be-d12c-4adc-bcec-ee26dac6411c",
+        "_submission_time": "2026-04-13T20:19:24",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:2fa246be-d12c-4adc-bcec-ee26dac6411c",
+        "_index": 33,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 55.2,
+        "nombre_naranja": "Koi sushi bar",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1581346,
+          -17.37685,
+          2614.7001953125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T12:57:42.585-04:00",
+        "end": "2026-04-13T16:20:40.903-04:00",
+        "Nombre del establecimiento": "Esséncia",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cafe de especialidad",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 723884476,
+        "_uuid": "9e04a9af-0011-418c-a547-940268b420cc",
+        "_submission_time": "2026-04-13T20:20:41",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:9e04a9af-0011-418c-a547-940268b420cc",
+        "_index": 34,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 55.6,
+        "nombre_naranja": "VENECIA IL",
+        "actividad_naranja": "Moda (Industria Téxtil)",
+        "rubro_naranja": "Artes Visuales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1581381,
+          -17.3762452,
+          2614.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T13:02:04.257-04:00",
+        "end": "2026-04-13T16:22:38.694-04:00",
+        "Nombre del establecimiento": "Suculenta",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cafe de especialidad",
+        "Capacidad del establecimiento (número de mesas)": "10 mesas",
+        "_id": 723885674,
+        "_uuid": "f607bd5e-0c7f-4144-a84e-1ff11c5f15d6",
+        "_submission_time": "2026-04-13T20:22:40",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:f607bd5e-0c7f-4144-a84e-1ff11c5f15d6",
+        "_index": 35,
+        "estado_cruce": "COINCIDE",
+        "similitud": 100.0,
+        "nombre_naranja": "suculenta",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1577545,
+          -17.3758227,
+          2616.000244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T13:12:26.488-04:00",
+        "end": "2026-04-13T16:27:01.881-04:00",
+        "Nombre del establecimiento": "Kansas Grill & Bar",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT Cuenta con registro de SEPREC",
+        "Tipo de Cocina": "Cocina Boliviana",
+        "Capacidad del establecimiento (número de mesas)": "25 - 40 mesas",
+        "_id": 723888292,
+        "_uuid": "ede62813-79a2-4eb3-96fb-19c4b3c0f515",
+        "_submission_time": "2026-04-13T20:27:03",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:ede62813-79a2-4eb3-96fb-19c4b3c0f515",
+        "_index": 36,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 58.1,
+        "nombre_naranja": "Tinkuna Grill",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1558103,
+          -17.373265,
+          2625.60009765625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T14:07:51.737-04:00",
+        "end": "2026-04-13T16:32:25.845-04:00",
+        "Nombre del establecimiento": "Clínica dental plus",
+        "Tipo de actor": "Salud",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Especialidad principal (Salud)": "Odontología",
+        "Capacidad de establecimiento (número de camas)": "No se sabe",
+        "_id": 723890974,
+        "_uuid": "3a47b4d0-0ddc-4481-8b4a-820104c863a0",
+        "_submission_time": "2026-04-13T20:32:27",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:3a47b4d0-0ddc-4481-8b4a-820104c863a0",
+        "_index": 37,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 57.1,
+        "nombre_naranja": "Pollos Manantial",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1557503,
+          -17.3734188,
+          2624.7001953125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T14:10:40.319-04:00",
+        "end": "2026-04-13T16:32:46.002-04:00",
+        "Nombre del establecimiento": "MP-Dental Studio",
+        "Tipo de actor": "Salud",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Especialidad principal (Salud)": "Odontología",
+        "Capacidad de establecimiento (número de camas)": "No se sabe",
+        "_id": 723891202,
+        "_uuid": "68f0da2c-ed1f-4285-beb6-4f441e3ca4ea",
+        "_submission_time": "2026-04-13T20:32:46",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:68f0da2c-ed1f-4285-beb6-4f441e3ca4ea",
+        "_index": 38,
+        "estado_cruce": "POSIBLE",
+        "similitud": 66.7,
+        "nombre_naranja": "Imprenta Santiaguito",
+        "actividad_naranja": "Industria grafica (impresion)",
+        "rubro_naranja": "Editorial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1549074,
+          -17.3733887,
+          2624.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T14:24:38.853-04:00",
+        "end": "2026-04-13T16:34:17.893-04:00",
+        "Nombre del establecimiento": "Pachamé Ramen",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Internacional",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 723891893,
+        "_uuid": "6736a6c4-6f07-4750-bc60-065ead4e434b",
+        "_submission_time": "2026-04-13T20:34:18",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:6736a6c4-6f07-4750-bc60-065ead4e434b",
+        "_index": 39,
+        "estado_cruce": "POSIBLE",
+        "similitud": 64.0,
+        "nombre_naranja": "La Pachamama ",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1547965,
+          -17.3736693,
+          2623.300048828125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T14:26:26.539-04:00",
+        "end": "2026-04-13T16:35:04.648-04:00",
+        "Nombre del establecimiento": "KHALI",
+        "Tipo de actor": "Ocio",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Establecimiento (Ocio)": "Bar",
+        "Horario predominante de atención": "Nocturno (desde 20:00)",
+        "Capacidad del establecimiento ": "No se sabe",
+        "_id": 723892289,
+        "_uuid": "9ccc40e1-bcd2-45a1-9ad1-29bda08d0cf7",
+        "_submission_time": "2026-04-13T20:35:05",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:9ccc40e1-bcd2-45a1-9ad1-29bda08d0cf7",
+        "_index": 40,
+        "estado_cruce": "POSIBLE",
+        "similitud": 66.7,
+        "nombre_naranja": "Alis",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1547912,
+          -17.3750459,
+          2621.000244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T14:31:41.260-04:00",
+        "end": "2026-04-13T16:36:19.495-04:00",
+        "Nombre del establecimiento": "Centro De Hemodialisis Media Luna",
+        "Tipo de actor": "Salud",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Especialidad principal (Salud)": "Otro",
+        "Capacidad de establecimiento (número de camas)": "60-64 pacientes",
+        "_id": 723892849,
+        "_uuid": "921952ed-5c84-4687-9a0e-e445fea4ccde",
+        "_submission_time": "2026-04-13T20:36:20",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:921952ed-5c84-4687-9a0e-e445fea4ccde",
+        "_index": 41,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 53.3,
+        "nombre_naranja": "La tarateña restaurant y centro de eventos",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1544815,
+          -17.3750758,
+          2620.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T14:35:21.508-04:00",
+        "end": "2026-04-13T16:37:07.516-04:00",
+        "Nombre del establecimiento": "La Chanchada",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cocina Boliviana",
+        "Capacidad del establecimiento (número de mesas)": "10 a 15",
+        "_id": 723893168,
+        "_uuid": "e1c1eef4-8126-4091-885a-aab53384ee57",
+        "_submission_time": "2026-04-13T20:37:09",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:e1c1eef4-8126-4091-885a-aab53384ee57",
+        "_index": 42,
+        "estado_cruce": "POSIBLE",
+        "similitud": 66.7,
+        "nombre_naranja": "La Cantarina",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1539908,
+          -17.3754075,
+          2622.000244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T14:54:06.943-04:00",
+        "end": "2026-04-13T16:38:02.610-04:00",
+        "Nombre del establecimiento": "Casona del Molino Cochabamba",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT Cuenta con registro de SEPREC",
+        "Tipo de Cocina": "Otro",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe",
+        "_id": 723893758,
+        "_uuid": "3d7700d7-4d88-4b6b-b73b-0e93965a4ee8",
+        "_submission_time": "2026-04-13T20:38:03",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:3d7700d7-4d88-4b6b-b73b-0e93965a4ee8",
+        "_index": 43,
+        "estado_cruce": "POSIBLE",
+        "similitud": 65.2,
+        "nombre_naranja": "El Chef Cochabamba ",
+        "actividad_naranja": "Educación Creativa",
+        "rubro_naranja": "Educación Creativa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1541862,
+          -17.3751073,
+          2621.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T14:37:03.839-04:00",
+        "end": "2026-04-13T16:39:49.915-04:00",
+        "Nombre del establecimiento": "THE MASK SPORT BAR",
+        "Tipo de actor": "Ocio",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Establecimiento (Ocio)": "Bar",
+        "Horario predominante de atención": "Nocturno (desde 20:00)",
+        "Capacidad del establecimiento ": "15 a 20 mesas ",
+        "_id": 723894613,
+        "_uuid": "d98cd603-28b5-4c69-adc7-3d00d00e2e8f",
+        "_submission_time": "2026-04-13T20:39:50",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:d98cd603-28b5-4c69-adc7-3d00d00e2e8f",
+        "_index": 44,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 54.5,
+        "nombre_naranja": "THE HOST FRAPPE",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1538634,
+          -17.3740594,
+          2625.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T14:40:40.283-04:00",
+        "end": "2026-04-13T16:42:00.964-04:00",
+        "Nombre del establecimiento": "BULLA Restobar",
+        "Tipo de actor": "Ocio",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Establecimiento (Ocio)": "Otro",
+        "Horario predominante de atención": "Mixto (tarde/noche)",
+        "Capacidad del establecimiento ": "10 a 15 mesas ",
+        "_id": 723896062,
+        "_uuid": "8d27ec2d-5253-4f5a-ba16-191a6c960b48",
+        "_submission_time": "2026-04-13T20:42:01",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:8d27ec2d-5253-4f5a-ba16-191a6c960b48",
+        "_index": 45,
+        "estado_cruce": "POSIBLE",
+        "similitud": 71.4,
+        "nombre_naranja": "Menta Restobar",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1543712,
+          -17.3739741,
+          2624.000244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T14:46:43.411-04:00",
+        "end": "2026-04-13T16:45:16.342-04:00",
+        "Nombre del establecimiento": "Sociedad hotelera  Aranjuez Cochabamba S.A",
+        "Tipo de actor": "Hospedaje",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT Cuenta con registro de SEPREC",
+        "Tipo de establecimiento (Alojamiento)": "Hotel",
+        "Categoría del establecimiento": "4 estrellas",
+        "¿Ofrece WiFi a los huéspedes?": "Si",
+        "Capacidad del establecimiento (Alojamiento)": "30 habitaciones ",
+        "_id": 723898244,
+        "_uuid": "37bbde8f-5685-4897-9e22-c9bd92071bd6",
+        "_submission_time": "2026-04-13T20:45:17",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:37bbde8f-5685-4897-9e22-c9bd92071bd6",
+        "_index": 46,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 53.5,
+        "nombre_naranja": "El nuevo amanecer Cochabambino ",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.154001,
+          -17.3756001,
+          2621.10009765625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T14:56:03.729-04:00",
+        "end": "2026-04-13T16:46:51.655-04:00",
+        "Nombre del establecimiento": "Simón Coffee",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cafe de especialidad",
+        "Capacidad del establecimiento (número de mesas)": "10 mesas ",
+        "_id": 723899217,
+        "_uuid": "7fed95c6-9064-41ec-8873-8c9421e22daa",
+        "_submission_time": "2026-04-13T20:46:52",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:7fed95c6-9064-41ec-8873-8c9421e22daa",
+        "_index": 47,
+        "estado_cruce": "POSIBLE",
+        "similitud": 69.6,
+        "nombre_naranja": "More coffee",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1540021,
+          -17.375857,
+          2620.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T15:00:42.599-04:00",
+        "end": "2026-04-13T16:48:57.832-04:00",
+        "Nombre del establecimiento": "Hotel Anteus",
+        "Tipo de actor": "Hospedaje",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de establecimiento (Alojamiento)": "Hotel",
+        "Categoría del establecimiento": "3 estrellas",
+        "¿Ofrece WiFi a los huéspedes?": "Si",
+        "Capacidad del establecimiento (Alojamiento)": "100 personas ",
+        "_id": 723900390,
+        "_uuid": "39c34d4d-ce6e-4622-b669-4e001a61fe6a",
+        "_submission_time": "2026-04-13T20:48:58",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:39c34d4d-ce6e-4622-b669-4e001a61fe6a",
+        "_index": 48,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 58.3,
+        "nombre_naranja": "HOLZ AND ART",
+        "actividad_naranja": "Artesanias, antigüedades, lauderia y productos típicos.",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1540016,
+          -17.3759149,
+          2620.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T15:01:48.062-04:00",
+        "end": "2026-04-13T16:50:38.106-04:00",
+        "Nombre del establecimiento": "La Arepera",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT Cuenta con registro de SEPREC",
+        "Tipo de Cocina": "Cocina Internacional",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe ",
+        "_id": 723901197,
+        "_uuid": "cdc2616e-9bc8-486e-a96b-c7128c861c48",
+        "_submission_time": "2026-04-13T20:50:38",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:cdc2616e-9bc8-486e-a96b-c7128c861c48",
+        "_index": 49,
+        "estado_cruce": "POSIBLE",
+        "similitud": 66.7,
+        "nombre_naranja": "Yola andrea",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1540224,
+          -17.3766171,
+          2620.10009765625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T15:04:43.269-04:00",
+        "end": "2026-04-13T16:52:26.230-04:00",
+        "Nombre del establecimiento": "P.A.I.S.E Caja Nacional de Salud",
+        "Tipo de actor": "Salud",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Especialidad principal (Salud)": "Hospitales de Especialidad",
+        "Capacidad de establecimiento (número de camas)": "No se sabe ",
+        "_id": 723902102,
+        "_uuid": "79dfb7e6-0e93-42da-88ff-963a1ef2c1b9",
+        "_submission_time": "2026-04-13T20:52:27",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:79dfb7e6-0e93-42da-88ff-963a1ef2c1b9",
+        "_index": 50,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 51.0,
+        "nombre_naranja": "Carmencita pasteles",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1540042,
+          -17.3768074,
+          2619.60009765625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T15:05:51.431-04:00",
+        "end": "2026-04-13T16:53:15.625-04:00",
+        "Nombre del establecimiento": "Cevichería Doris",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Otro",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe ",
+        "_id": 723902553,
+        "_uuid": "26787b7f-d182-4bbe-8157-63f2fc6776ca",
+        "_submission_time": "2026-04-13T20:53:17",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:26787b7f-d182-4bbe-8157-63f2fc6776ca",
+        "_index": 51,
+        "estado_cruce": "POSIBLE",
+        "similitud": 64.7,
+        "nombre_naranja": "Cevicheria PeNocho",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1540812,
+          -17.3772745,
+          2619.500244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T15:07:13.947-04:00",
+        "end": "2026-04-13T16:55:06.242-04:00",
+        "Nombre del establecimiento": "Modena Café",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cafe de especialidad",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe ",
+        "_id": 723903569,
+        "_uuid": "7a685246-78e5-4382-b818-bb6e62cee870",
+        "_submission_time": "2026-04-13T20:55:07",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:7a685246-78e5-4382-b818-bb6e62cee870",
+        "_index": 52,
+        "estado_cruce": "POSIBLE",
+        "similitud": 73.7,
+        "nombre_naranja": "Café Dxn",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1541632,
+          -17.3779605,
+          2619.000244140625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T15:09:49.560-04:00",
+        "end": "2026-04-13T16:56:04.201-04:00",
+        "Nombre del establecimiento": "Author •cafe y bebidas•",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "No",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cafe de especialidad",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe ",
+        "_id": 723903956,
+        "_uuid": "e0ad9822-cfab-4888-b30d-d98dfbaa2335",
+        "_submission_time": "2026-04-13T20:56:05",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:e0ad9822-cfab-4888-b30d-d98dfbaa2335",
+        "_index": 53,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 56.5,
+        "nombre_naranja": "Alimentos y bebidas Moo",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1540867,
+          -17.377663,
+          2618.800048828125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T15:08:49.392-04:00",
+        "end": "2026-04-13T16:58:08.743-04:00",
+        "Nombre del establecimiento": "Clínica Copacabana",
+        "Tipo de actor": "Salud",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT Cuenta con registro de SEPREC",
+        "Especialidad principal (Salud)": "Hospitales de Especialidad",
+        "Capacidad de establecimiento (número de camas)": "70 personas ",
+        "_id": 723904903,
+        "_uuid": "5f5310aa-fd4f-4959-9632-639ec69fa27d",
+        "_submission_time": "2026-04-13T20:58:09",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:5f5310aa-fd4f-4959-9632-639ec69fa27d",
+        "_index": 54,
+        "estado_cruce": "POSIBLE",
+        "similitud": 60.0,
+        "nombre_naranja": "La Pachamama ",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1541776,
+          -17.3785211,
+          2618.10009765625
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T15:11:37.276-04:00",
+        "end": "2026-04-13T16:59:16.501-04:00",
+        "Nombre del establecimiento": "Mr. Chicken House",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Otro",
+        "Capacidad del establecimiento (número de mesas)": "9 mesas ",
+        "_id": 723905278,
+        "_uuid": "ec48d111-d053-43e4-9baa-37f2b7976c0e",
+        "_submission_time": "2026-04-13T20:59:17",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:ec48d111-d053-43e4-9baa-37f2b7976c0e",
+        "_index": 55,
+        "estado_cruce": "POSIBLE",
+        "similitud": 60.0,
+        "nombre_naranja": "MI MAKERHOUSE",
+        "actividad_naranja": "Medios de soporte para contenidos digitales (desarrollo de software y app)",
+        "rubro_naranja": "Software de Contenido"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1542089,
+          -17.3790403,
+          2617.900146484375
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T15:13:44.861-04:00",
+        "end": "2026-04-13T17:01:20.141-04:00",
+        "Nombre del establecimiento": "Muela del Diablo",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Cerrado Temporalmente",
+        "¿Tiene Web o redes sociales activas?": "No",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT Cuenta con registro de SEPREC",
+        "Tipo de Cocina": "Otro",
+        "Capacidad del establecimiento (número de mesas)": "No se sabe ",
+        "_id": 723906334,
+        "_uuid": "aa993ca9-0d1d-487c-a16a-d03ea43d8925",
+        "_submission_time": "2026-04-13T21:01:20",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:aa993ca9-0d1d-487c-a16a-d03ea43d8925",
+        "_index": 56,
+        "estado_cruce": "COINCIDE",
+        "similitud": 93.8,
+        "nombre_naranja": "Muela del díablo",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1542071,
+          -17.3791237,
+          2617.800048828125
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T15:14:29.086-04:00",
+        "end": "2026-04-13T17:02:14.695-04:00",
+        "Nombre del establecimiento": "KOA Café",
+        "Tipo de actor": "Gastronomía",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de Cocina": "Cafe de especialidad",
+        "Capacidad del establecimiento (número de mesas)": "7 a 8 mesas ",
+        "_id": 723906827,
+        "_uuid": "d7db2d67-a9cb-4284-9d94-56a7d7984044",
+        "_submission_time": "2026-04-13T21:02:15",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:d7db2d67-a9cb-4284-9d94-56a7d7984044",
+        "_index": 57,
+        "estado_cruce": "POSIBLE",
+        "similitud": 66.7,
+        "nombre_naranja": "Nuovo Café ",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1591034,
+          -17.3803398,
+          2613.5209540307765
+        ]
+      },
+      "properties": {
+        "start": "2026-04-13T15:25:35.603-04:00",
+        "end": "2026-04-13T17:04:13.159-04:00",
+        "Nombre del establecimiento": "Oblitas Hotel",
+        "Tipo de actor": "Hospedaje",
+        "Fue parte del Censo de Economía Naranja?": "Si",
+        "Estado Operativo del Establecimiento": "Abierto",
+        "¿Tiene Web o redes sociales activas?": "Si",
+        "Aparece en Google Maps?": "Si",
+        "¿Tienen sistema de reservas o contacto digital?": "Si",
+        "Estado de Formalización": "Cuenta con NIT",
+        "Tipo de establecimiento (Alojamiento)": "Hotel",
+        "Categoría del establecimiento": "3 estrellas",
+        "¿Ofrece WiFi a los huéspedes?": "Si",
+        "Capacidad del establecimiento (Alojamiento)": "9 habitaciones ",
+        "_id": 723907990,
+        "_uuid": "dd28e851-6070-4a25-b3e1-752993aa5607",
+        "_submission_time": "2026-04-13T21:04:14",
+        "_status": "submitted_via_web",
+        "_submitted_by": "devanyvill",
+        "__version__": "vRtstsHPSrm2D4tiW8kuoo",
+        "meta/rootUuid": "uuid:dd28e851-6070-4a25-b3e1-752993aa5607",
+        "_index": 58,
+        "estado_cruce": "NO COINCIDE",
+        "similitud": 58.3,
+        "nombre_naranja": "Dely tortas ",
+        "actividad_naranja": "Gastronomia",
+        "rubro_naranja": "Turismo y patrimonio cultural"
+      }
+    }
+  ]
+}

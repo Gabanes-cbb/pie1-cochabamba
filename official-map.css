@@ -1,0 +1,40 @@
+.map-shell iframe {
+  width: 100%;
+  min-height: 560px;
+  border: 0;
+}
+
+.map-caption a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: .65rem 1rem;
+  border: 1px solid rgba(43, 111, 145, .25);
+  border-radius: 999px;
+  background: #edf5f8;
+  text-align: center;
+  transition: background .2s ease, color .2s ease, transform .2s ease;
+}
+
+.map-caption a:hover {
+  background: var(--blue);
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+.map-caption a:focus-visible {
+  outline: 3px solid rgba(237, 123, 69, .45);
+  outline-offset: 3px;
+}
+
+@media (max-width: 620px) {
+  .map-shell iframe {
+    height: min(72vh, 560px);
+    min-height: 460px;
+  }
+
+  .map-caption a {
+    width: 100%;
+  }
+}
